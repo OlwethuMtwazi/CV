@@ -1,8 +1,4 @@
----
-layout: default
----
 
-# Olwethu Mtwazi  
 ### ICT Applications Development Student  
 
 ---
