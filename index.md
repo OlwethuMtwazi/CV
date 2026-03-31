@@ -6,14 +6,15 @@
 - Location: Cape Town, South Africa  
 
 ---
-layout: default
----
 
 ## 🏫 Education
-| Institution | Qualification | Year |
-|------------|--------------|------|
-| Collegiate Girls High School | NSC Diploma | 2022 |
-| Cape Peninsula University of Technology | ICT Diploma in Application Development | 2023 - Present |
+### Cape Peninsula University of Technology  
+**ICT Diploma in Application Development**  
+*2023 – Present*
+
+### Collegiate Girls High School  
+**NSC Diploma**  
+*2022*
 
 ---
 
@@ -34,6 +35,6 @@ layout: default
 ## 🎥 Mock Interview
 
 <video width="600" controls>
-  <source src=""C:\Users\olwethu mtwazi\OneDrive\Documents\Project presentation\Olwethu Mtwazi mock interview.mp4"" type="video/mp4">
+  <source src=""mock-interview.mp4"" type="video/mp4">
 </video>
 
