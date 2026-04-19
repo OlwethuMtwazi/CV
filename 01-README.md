@@ -8,9 +8,9 @@ Aspiring Junior Developer | CPUT ICT Applications Development
 
 | Section | Description |
 |---|---|
-| [📄 CV](cv.md) | My CV |
-| [💻 Projects](projects.md) | Carelink & Ikapa Consulting |
-| [🎥 Mock Interview](interview.md) | Video & reflection |
+| [📄 CV](02-CV.md) | My CV |
+| [💻 Projects](03-projects.md) | Carelink & Ikapa Consulting |
+| [🎥 Mock Interview](04-index.html) | Video & reflection |
 
 ---
 
