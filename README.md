@@ -9,7 +9,6 @@ Aspiring Junior Software Developer | Backend Development | CPUT
 | Section | Description |
 |---|---|
 | [📄 CV](02-CV.md) | My CV |
-| [💻 Projects](03-projects.md) | Carelink & Ikapa Consulting |
 | [🎥 Mock Interview](./index.html) | Video & reflection |
 
 ---
